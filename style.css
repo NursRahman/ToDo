@@ -1,0 +1,17 @@
+.dif{
+    margin-left: 40%;
+    padding: 5px 10px;
+    background-color: gray;
+    border-radius: 13px;
+    height: 900px;
+    width: 20%;
+}
+.active{
+    color: red;
+    -webkit-text-decoration-line: line-through; /* Safari */
+    text-decoration-line: line-through; 
+}
+
+.card{
+    color: green;
+}
